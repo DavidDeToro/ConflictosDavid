@@ -6,5 +6,5 @@ public class HolaMundo {
 		}		
 	}
 	int x = 1;
-    System.out.println("David");
+    
 }
