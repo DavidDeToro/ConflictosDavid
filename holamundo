@@ -5,6 +5,6 @@ public class HolaMundo {
 			System.out.println("A ver que pasa");
 		}		
 	}
-	int x = 0;
+	int x = 1;
     System.out.println("David");
 }
