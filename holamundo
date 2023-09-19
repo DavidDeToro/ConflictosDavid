@@ -5,6 +5,6 @@ public class HolaMundo {
 			System.out.println("Probamos nueva rama");
 		}		
 	}
-	int x = 1;
+	int x = 0;
     System.out.println("David");
 }
