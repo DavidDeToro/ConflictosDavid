@@ -2,9 +2,9 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		for(int i = 1; i <= 5; i++){
-			System.out.println("A ver que pasa");
+			System.out.println("Nuevo cambio");
 		}		
 	}
-	int x = 0;
+	int x = 1;
     System.out.println("David");
 }
