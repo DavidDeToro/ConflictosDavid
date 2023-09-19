@@ -5,7 +5,5 @@ public class HolaMundo {
 			System.out.println("Probamos nueva rama");
 		}		
 	}
-
 	int x = 0;
-
 }
